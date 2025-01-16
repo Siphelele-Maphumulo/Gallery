@@ -25,7 +25,7 @@ Follow Codrops: [X](http://www.X.com/codrops), [Facebook](http://www.facebook.co
 ## License
 [MIT](LICENSE)
 
-Made with :blue_heart:  by [Codrops](http://www.codrops.com)
+
 
 
 
